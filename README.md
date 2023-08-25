@@ -1,3 +1,3 @@
 # Random-Jokes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-vmvdoy)
+Its a basic jokes examples. I created this while learning Conditional rendering in React.
